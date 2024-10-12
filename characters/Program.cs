@@ -9,7 +9,7 @@ class Program
         Console.WriteLine(Convert.ToDouble(s));
     }
 
-    //Convert string to a double
+    //Confirm string is convertible to a double
     static bool IsDouble(string s)
     {   
         try{
